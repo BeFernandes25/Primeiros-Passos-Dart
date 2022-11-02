@@ -1,2 +1,2 @@
 # Primeiros-Passos-Dart
-Variáveis - Listas -Laços de Repetição
+Variáveis - Listas - Laços de Repetição
